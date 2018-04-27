@@ -1,10 +1,10 @@
 # Front-end
 ## 1. w3school HTML 
   * HTML5 Tutorial
-      * Home
-      * Introduction
-      * Editors
-      * Basic
+      * ~~Home~~
+      * ~~Introduction~~
+      * ~~Editors~~
+      * ~~Basic~~
       * Elements
       * Attributes
       * Paragraphs
