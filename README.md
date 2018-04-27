@@ -5,7 +5,7 @@
       * ~~Introduction~~
       * ~~Editors~~
       * ~~Basic~~
-      * Elements
+      * ~~Elements~~
       * Attributes
       * Paragraphs
       * Styles
