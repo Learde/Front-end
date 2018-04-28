@@ -6,7 +6,8 @@
       * ~~Editors~~
       * ~~Basic~~
       * ~~Elements~~
-      * Attributes
+      * ~~Attributes~~
+      * ~~Headings~~
       * Paragraphs
       * Styles
       * Formatting
