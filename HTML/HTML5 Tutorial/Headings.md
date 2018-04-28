@@ -22,7 +22,7 @@
 Обычно здесь определяют название страницы, кодировку, ссылки на стили, скрипты etc.
 
 ## Упражнения(4)
-1. [Упр.1]()
-2. [Упр.2]()
-3. [Упр.3]()
-4. [Упр.4]()
+1. [Упр.1](https://codepen.io/Learde/pen/BxpLdG)
+2. [Упр.2](https://codepen.io/Learde/pen/rvjMGe)
+3. [Упр.3](https://codepen.io/Learde/pen/rvjMYe)
+4. [Упр.4](https://codepen.io/Learde/pen/pVREpo)
