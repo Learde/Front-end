@@ -8,9 +8,9 @@
       * ~~Elements~~
       * ~~Attributes~~
       * ~~Headings~~
-      * Paragraphs
-      * Styles
-      * Formatting
+      * ~~Paragraphs~~
+      * ~~Styles~~
+      * ~~Formatting~~
       * Quotations
       * Comments
       * Colors
