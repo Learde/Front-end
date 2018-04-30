@@ -29,7 +29,7 @@
 ```
 
 ## Упражнения(4)
-1.[Упр.1](https://codepen.io/Learde/pen/ervELN)
-2.[Упр.2](https://codepen.io/Learde/pen/BxWdGG)
-3.[Упр.3](https://codepen.io/Learde/pen/rvyzPx)
-4.[Упр.4](https://codepen.io/Learde/pen/QrpMYR)
+1. [Упр.1](https://codepen.io/Learde/pen/ervELN)
+2. [Упр.2](https://codepen.io/Learde/pen/BxWdGG)
+3. [Упр.3](https://codepen.io/Learde/pen/rvyzPx)
+4. [Упр.4](https://codepen.io/Learde/pen/QrpMYR)
