@@ -11,8 +11,8 @@
       * ~~Paragraphs~~
       * ~~Styles~~
       * ~~Formatting~~
-      * Quotations
-      * Comments
+      * ~~Quotations~~
+      * ~~Comments~~
       * Colors
       * CSS
       * Links
