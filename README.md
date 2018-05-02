@@ -15,8 +15,8 @@
       * ~~Comments~~
       * ~~Colors~~
       * ~~CSS~~
-      * Links
-      * Images
+      * ~~Links~~
+      * ~~Images~~
       * Tables
       * Lists
       * Blocks
