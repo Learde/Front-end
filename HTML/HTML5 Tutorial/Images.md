@@ -79,9 +79,9 @@ HTML поддерживает GIF изображения. Указываются
 > Note: Всегда указывайте элемент <img> в качестве последнего дочернего элемента элемента <picture>. Элемент <img> используется браузерами, которые не поддерживают элемент <picture>, или если ни один из тегов <source> не был сопоставлен.
   
 ## Упражнения(6)
-1.[Упр.1](https://codepen.io/Learde/pen/ELXVWE)
-2.[Упр.2](https://codepen.io/Learde/pen/YLQyZg)
-3.[Упр.3](https://codepen.io/Learde/pen/jxwbmV)
-4.[Упр.4](https://codepen.io/Learde/pen/vjZNmM)
-5.[Упр.5](https://codepen.io/Learde/pen/zjzvzW)
-6.[Упр.6](https://codepen.io/Learde/pen/vjZNZw)
+1. [Упр.1](https://codepen.io/Learde/pen/ELXVWE)
+2. [Упр.2](https://codepen.io/Learde/pen/YLQyZg)
+3. [Упр.3](https://codepen.io/Learde/pen/jxwbmV)
+4. [Упр.4](https://codepen.io/Learde/pen/vjZNmM)
+5. [Упр.5](https://codepen.io/Learde/pen/zjzvzW)
+6. [Упр.6](https://codepen.io/Learde/pen/vjZNZw)
