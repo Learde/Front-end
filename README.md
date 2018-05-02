@@ -13,8 +13,8 @@
       * ~~Formatting~~
       * ~~Quotations~~
       * ~~Comments~~
-      * Colors
-      * CSS
+      * ~~Colors~~
+      * ~~CSS~~
       * Links
       * Images
       * Tables
