@@ -44,9 +44,9 @@ table, th, td {
 Для добавления подписи к таблице, необходимо использовать тег `<caption>`. ***Указывать его неообходимо сразу после тега `<table>`***
 
 ## Упражнения(6)
-1.[Упр.1](https://codepen.io/Learde/pen/PeKXwq)
-2.[Упр.2](https://codepen.io/Learde/pen/wjqRaG)
-3.[Упр.3](https://codepen.io/Learde/pen/JvywYe)
-4.[Упр.4](https://codepen.io/Learde/pen/WJELrR)
-5.[Упр.5](https://codepen.io/Learde/pen/qYXLbL)
-6.[Упр.6](https://codepen.io/Learde/pen/JvywXe)
+1. [Упр.1](https://codepen.io/Learde/pen/PeKXwq)
+2. [Упр.2](https://codepen.io/Learde/pen/wjqRaG)
+3. [Упр.3](https://codepen.io/Learde/pen/JvywYe)
+4. [Упр.4](https://codepen.io/Learde/pen/WJELrR)
+5. [Упр.5](https://codepen.io/Learde/pen/qYXLbL)
+6. [Упр.6](https://codepen.io/Learde/pen/JvywXe)
