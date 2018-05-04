@@ -17,8 +17,8 @@
       * ~~CSS~~
       * ~~Links~~
       * ~~Images~~
-      * Tables
-      * Lists
+      * ~~Tables~~
+      * ~~Lists~~
       * Blocks
       * Classes
       * Id
