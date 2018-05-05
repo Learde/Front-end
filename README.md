@@ -19,9 +19,9 @@
       * ~~Images~~
       * ~~Tables~~
       * ~~Lists~~
-      * Blocks
-      * Classes
-      * Id
+      * ~~Blocks~~
+      * ~~Classes~~
+      * ~~Id~~
       * Iframes
       * JavaScript
       * File Paths
