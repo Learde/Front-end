@@ -22,11 +22,11 @@
       * ~~Blocks~~
       * ~~Classes~~
       * ~~Id~~
-      * Iframes
-      * JavaScript
-      * File Paths
-      * Head
-      * Layout
+      * ~~Iframes~~
+      * ~~JavaScript~~
+      * ~~File Paths~~
+      * ~~Head~~
+      * ~~Layout~~
       * Responsive
       * Computercode
       * Entities
