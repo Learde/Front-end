@@ -1,39 +1,6 @@
 # Front-end
 ## 1. w3school HTML 
-  * HTML5 Tutorial
-      * ~~Home~~
-      * ~~Introduction~~
-      * ~~Editors~~
-      * ~~Basic~~
-      * ~~Elements~~
-      * ~~Attributes~~
-      * ~~Headings~~
-      * ~~Paragraphs~~
-      * ~~Styles~~
-      * ~~Formatting~~
-      * ~~Quotations~~
-      * ~~Comments~~
-      * ~~Colors~~
-      * ~~CSS~~
-      * ~~Links~~
-      * ~~Images~~
-      * ~~Tables~~
-      * ~~Lists~~
-      * ~~Blocks~~
-      * ~~Classes~~
-      * ~~Id~~
-      * ~~Iframes~~
-      * ~~JavaScript~~
-      * ~~File Paths~~
-      * ~~Head~~
-      * ~~Layout~~
-      * Responsive
-      * Computercode
-      * Entities
-      * Symbols
-      * Charset
-      * URL Encode
-      * XHTML
+  * ~~HTML5 Tutorial~~
   * HTML Forms
       * Forms
       * Form Elements
