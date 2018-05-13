@@ -3,8 +3,8 @@
   * ~~HTML5 Tutorial~~
   * ~~HTML Forms~~
   * HTML5
-      * Intro
-      * Support
+      * ~~Intro~~
+      * ~~Support~~
       * New Elements
       * Semantics
       * Migration
