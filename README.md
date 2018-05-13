@@ -1,11 +1,7 @@
 # Front-end
 ## 1. w3school HTML 
   * ~~HTML5 Tutorial~~
-  * HTML Forms
-      * Forms
-      * Form Elements
-      * Input Types
-      * Input Attributes
+  * ~~HTML Forms~~
   * HTML5
       * Intro
       * Support
