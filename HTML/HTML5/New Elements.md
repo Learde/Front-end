@@ -28,7 +28,7 @@
 * `<output>` Содержит результат вычислений
 
 ## Новые атрибуты и типы для поля ввода
-Types:
+### Types:
 
 * color
 * date
@@ -44,7 +44,7 @@ Types:
 * url
 * week
 
-Attributes:
+### Attributes:
 
 * autocomplete
 * autofocus
