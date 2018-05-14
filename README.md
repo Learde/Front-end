@@ -2,13 +2,7 @@
 ## 1. w3school HTML 
   * ~~HTML5 Tutorial~~
   * ~~HTML Forms~~
-  * HTML5
-      * ~~Intro~~
-      * ~~Support~~
-      * New Elements
-      * Semantics
-      * Migration
-      * Style Guide
+  * ~~HTML5~~
   * HTML Graphics
       * Canvas
       * SVG
