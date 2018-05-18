@@ -8,14 +8,14 @@
 
 
    * CSS Tutorial
-       * HOME
-       * Introduction
-       * Syntax
-       * How To
-       * Colors
-       * Background
-       * Borders
-       * Margins
+       * ~~HOME~~
+       * ~~Introduction~~
+       * ~~Syntax~~
+       * ~~How To~~
+       * ~~Colors~~
+       * ~~Background~~
+       * ~~Borders~~
+       * ~~Margins~~
        * Padding
        * Height/Width
        * Box Model
