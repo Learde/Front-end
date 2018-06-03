@@ -16,21 +16,21 @@
        * ~~Background~~
        * ~~Borders~~
        * ~~Margins~~
-       * Padding
-       * Height/Width
-       * Box Model
-       * Outline
-       * Text
-       * Fonts
-       * Icons
-       * Links
-       * Lists
-       * Tables
-       * Display
-       * Max-width
-       * Position
-       * Overflow
-       * Float
+       * ~~Padding~~
+       * ~~Height/Width~~
+       * ~~Box Model~~
+       * ~~Outline~~
+       * ~~Text~~
+       * ~~Fonts~~
+       * ~~Icons~~
+       * ~~Links~~
+       * ~~Lists~~
+       * ~~Tables~~
+       * ~~Display~~
+       * ~~Max-width~~
+       * ~~Position~~
+       * ~~Overflow~~
+       * ~~Float~~
        * Inline-block
        * Align
        * Combinators
